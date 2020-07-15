@@ -1,2 +1,2 @@
 # logo
-Lab Logo
+Code to generate the lab logo.
